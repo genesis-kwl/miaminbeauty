@@ -1,0 +1,7 @@
+[project]
+name = "miaminbeauty"
+version = "0.1.0"
+description = "Mia Min Beauty prototype — Meridian Landing + AI concierge chatbot"
+requires-python = ">=3.12"
+# No runtime deps — api/complete.py uses only Python stdlib.
+dependencies = []
