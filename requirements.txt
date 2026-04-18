@@ -1,0 +1,2 @@
+# Python stdlib only — no third-party deps needed.
+# Intentionally empty (but file present so Vercel picks up Python runtime).
